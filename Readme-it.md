@@ -7,4 +7,4 @@ della ricerca nell'Informatica (lo so, ho le mie priorità).
 
 ## Lingue
 Parlo in Inglese, Italiano, Hindi, Bengalese, Francese e un pò in Spagnolo.
-Versione in Inglese: [Readme.md](Readme.md)
+Versione in Inglese: [README.md](README.md)

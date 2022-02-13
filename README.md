@@ -1,5 +1,5 @@
 # Advait-Sen 
-I am a student in the British School of Milan.
+I am a student at the British School of Milan.
 I am also a budding comedian and computer scientist, and poet (not that any of my poetry is available online).
 
 My dream job is to work at Mojang, though I would also be happy to work at the forefront of Computer Science

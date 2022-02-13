@@ -6,6 +6,6 @@ My dream job is to work at Mojang, though I would also be happy to work at the f
 research in the world (yes I have my priorities straight).
 
 ## Languages
-I speak English, [Italian](README-IT.md), Hindi, Bengali, French and a bit of Spanish. I'mma add translated versions in as many
+I speak English, [Italian](README-IT.md), Hindi, Bengali, [French](README-FR.md) and a bit of Spanish. I'mma add translated versions in as many
 languages as possible Soon(tm).
 
